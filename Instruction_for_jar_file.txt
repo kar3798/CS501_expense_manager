@@ -1,0 +1,7 @@
+Instruction fot Adding the jar file for the org.json.JSONObject package
+
+1. In vscode locate the "Referenced Libraries" for the project.
+2. Click on the "+" icon.
+3. Choose the "json-20231013.jar" from the folder.
+
+Note : Keep the "json-20231013.jar" in the project folder.
